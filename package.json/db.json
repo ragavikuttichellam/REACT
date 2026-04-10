@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Kurti",
+      "price": 799,
+      "image": "https://via.placeholder.com/200x250.png?text=Kurti"
+    },
+    {
+      "id": 2,
+      "title": "Saree",
+      "price": 1299,
+      "image": "https://via.placeholder.com/200x250.png?text=Saree"
+    },
+    {
+  "_id": {
+    "$oid": "698afc1ecb48c51a2dd93d9f"
+  },
+  "name": "Stylish Shirt",
+  "price": 999,
+  "image": "https://5.imimg.com/data5/ECOM/Default/2022/7/US/WL/RD/50433867/1652343600523-a12-originnm80prcnt-500x500.jpg"
+},
+{
+  "_id": {
+    "$oid": "698afd7fcb48c51a2dd93da2"
+  },
+  "name": "Casual Wear",
+  "price": 1299,
+  "image": "https://i.pinimg.com/736x/cf/11/ed/cf11ed3615b495f19e7dabd1e985fcd4.jpg"
+},
+{
+  "_id": {
+    "$oid": "698afdcecb48c51a2dd93da4"
+  },
+  "name": "Kids Fashion",
+  "price": 699,
+  "image": "https://images.meesho.com/images/products/611509884/s1lul_512.webp?width=512"
+},
+{
+  "_id": {
+    "$oid": "698afdfbcb48c51a2dd93da6"
+  },
+  "name": "Premium Jacket",
+  "price": 1999,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlT-hwTcscft7T9AS8MfSOTF3IS0O2_3aXQA&s"
+}
+
+  ]
+}
